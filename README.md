@@ -5,7 +5,6 @@ An AI-powered tool for counting pipes in images and videos using YOLOv8, trained
 ## Features
 - Detects and counts pipes in images and video files.
 - Built using YOLOv8 on a custom dataset for high accuracy.
-- Supports real-time video processing for live applications.
 
 ## Installation
 
