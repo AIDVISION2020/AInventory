@@ -42,7 +42,7 @@ def convert_coco_to_yolo(coco_json_path, output_dir, images_dir):
 
 # Example usage
 convert_coco_to_yolo(
-    coco_json_path="/Users/satyapraneeth/Downloads/pioe_dataset/annotations.json",
-    output_dir="/Users/satyapraneeth/Downloads/pioe_dataset/labels_updated_new",
-    images_dir="/Users/satyapraneeth/Downloads/pioe_dataset/dataset"
+    coco_json_path="",
+    output_dir="",
+    images_dir=""
 )
