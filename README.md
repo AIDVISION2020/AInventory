@@ -36,3 +36,21 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+## Model Training
+- Prepare your dataset in YOLO format. If you have a dataset in COCO format use the JsonToTxt.py file to convert it.
+- Follow the below folder structure
+```markdown
+root/
+|-- dataset
+|   |-- train
+|        |- images
+|        |- labels
+|   |-- val
+|        |- images
+|        |- labels
+```
+- Now mention the path of the images folders of the train and the value in the data.yaml file. You can also add test data if you want.
+
+## Demo
+
