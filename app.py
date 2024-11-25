@@ -33,7 +33,7 @@ cap.set(cv2.CAP_PROP_FRAME_WIDTH,640)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT,480)
 
 model_roboflow_agumentation = YOLO('')
-# model_manual_agumentation = YOLO('/Users/satyapraneeth/Desktop/cv-project/YOLO-models/agumented-model-best.pt')
+# model_manual_agumentation = YOLO('')
 
 
 
