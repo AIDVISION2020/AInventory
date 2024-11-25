@@ -18,3 +18,10 @@ cd PipeCounter
 ```bash
 conda create -n myenv python=3.8
 conda ctivate myenv
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## Dataset
