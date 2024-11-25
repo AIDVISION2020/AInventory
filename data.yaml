@@ -1,0 +1,12 @@
+train: /kaggle/input/yolo-pipe-dataset/object-counting-dataset-for-kaggle/train/images
+val: /kaggle/input/yolo-pipe-dataset/object-counting-dataset-for-kaggle/valid/images
+
+nc: 1
+names: ['Pipe']
+
+roboflow:
+  workspace: cvproject-ikgbe
+  project: -pipe-detetcion
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cvproject-ikgbe/-pipe-detetcion/dataset/2
