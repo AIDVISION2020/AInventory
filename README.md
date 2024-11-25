@@ -25,3 +25,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
+- The model was trained on a custom dataset of images containing pipes. I have added the sample images.
+- Sample Image 1
+![Sample Image 1](image-2.jpeg)
+![Sample Image 2](image-1.jpeg)
