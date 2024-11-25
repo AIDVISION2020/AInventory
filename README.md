@@ -54,3 +54,6 @@ root/
 
 ## Demo
 ![Working Application](demo-image.png)
+
+## License
+This project is licensed under the MIT License.
