@@ -11,7 +11,7 @@ An AI-powered tool for counting pipes in images and videos using YOLOv8, trained
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SatyaP999/PipeCounterAI.git
+git clone https://github.com/SatyaP999/AInventory.git
 cd PipeCounter
 ```
 ### 2. Creata a Conda Environment
